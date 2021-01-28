@@ -1,0 +1,23 @@
+.footer {
+    text-align: center;
+    background-color: #A5D7D7;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+h3 {
+  font-size: small;
+  font-weight: 100;
+}
+
+li {
+  font-size: 35px;
+}

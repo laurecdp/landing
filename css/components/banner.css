@@ -1,0 +1,25 @@
+.banner {
+   width: 900px;
+   text-align: center;
+   background-size: cover;
+   background-position: 30% 70%;
+   padding: 35px;
+}
+
+a {
+    text-decoration: none; 
+    color: black;
+}
+
+button {
+    background-color: rgb(163, 221, 203);
+    padding: 16px 32px;
+    font-weight: 700;
+    opacity : 1;
+    border-radius: 8px;
+    border: rgb(200, 240, 227) solid 0.2px;
+}
+
+button:hover {
+    opacity: 0.6;
+}
